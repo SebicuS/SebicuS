@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebicuS
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning React/React Native
+- 🌱 I’m currently learning front-end development
 - 📫 Contact me at sebicus0720@gmail.com
 
 <!---
